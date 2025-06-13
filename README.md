@@ -2,10 +2,15 @@
 
 Este repositório contém o código e os recursos relacionados ao projeto final do curso "Introdução às LLMs para Processamento de Linguagem Natural". O objetivo do projeto foi explorar conceitos fundamentais sobre Modelos de Linguagem de Grande Escala (LLMs), engenharia de prompts, análise de dados com Named Entity Recognition (NER) e a criação de uma aplicação prática utilizando Streamlit, LLM e LangChain. O repositório está dividido nas seguintes seções:
 
+
 Parte 1: Fundamentos das LLMs
+
 Parte 2: Quizzes do Curso de NLP da Hugging Face
+
 Parte 3: Análise de Dados com NER
+
 Parte 4: Engenharia de Prompts
+
 Parte 5: Projeto Prático com Streamlit, LLM e LangChain
 
 # Parte 1: Fundamentos das LLMs
